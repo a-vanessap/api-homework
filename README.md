@@ -1,2 +1,2 @@
-# api-homework
+# Geocoding and weather API homework
 
